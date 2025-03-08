@@ -45,18 +45,11 @@ Ce document recense les personnages non-joueurs (PNJ) présents dans la ville de
 - **Histoire:** Nièce du consul du commerce. Peut offrir une invitation à la fête au manoir de Tormel si sauvée d'un crocodile sur la route.
 - **Fiche:** Honeywood.md (section Route vers Tormel)
 
-### Consul du Commerce
-- **Métier:** Consul (chef politique)
-- **Description:** Non précisée dans les documents disponibles
-- **Intentions:** Gérer les affaires commerciales de Tormel
-- **Histoire:** Oncle de Luthiel
-- **Fiche:** Mentionné indirectement dans Honeywood.md
-
 ### Consul de l'Économie
 - **Métier:** Consul (chef politique)
 - **Description:** Non précisée dans les documents disponibles
 - **Intentions:** Collaborer avec Mera sur un projet inconnu
-- **Histoire:** Impliqué dans un plan que Mera compte discuter lors d'un festin
+- **Histoire:** Oncle de Luthiel, Impliqué dans un plan que Mera compte discuter lors d'un festin
 - **Fiche:** Mentionné indirectement dans Tormel.md
 
 ## Guilde des Ombres

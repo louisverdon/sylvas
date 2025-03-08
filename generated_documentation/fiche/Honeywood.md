@@ -257,7 +257,7 @@ _Si abordé_: "On m'a donné cette pièce d'or, en me disant de la remettre à l
 
 > [!note] 💎 Trésor
 > **À récupérer:** [Pièce d'or magique](generated_documentation/items/items.md#objets-magiques)
-> - _Si gardée:_ Rien ne se produit
+> - _Si gardée:_ La pièce disparait
 > - _Si donnée à quelqu'un d'autre en répétant la phrase:_ Deux pièces d'or apparaissent mystérieusement dans votre poche
 
 ### L'homme sous l'arbre
@@ -281,7 +281,7 @@ _Si négligé_: Succombera à ses blessures avant la nuit
 ➤ **Crocodile** -- Massif et agressif ─ `5 PV` ─ Dégâts: `1d6`
 - _Si attaque réussie:_ Le crocodile tente d'entraîner sa proie sous l'eau
 - _Si Luthiel est sauvée:_ Extrêmement reconnaissante, elle vous invite à la fête au Manoir de Tormel
-- *Information:* "Je suis Luthiel, nièce du consul du commerce. Cette invitation à la fête au manoir est le moins que je puisse faire pour vous remercier. Présentez-vous aux gardes et mentionnez mon nom - ils vous laisseront entrer."
+- *Information:* "Je suis Luthiel, nièce du consul de l'économie. Cette invitation à la fête au manoir est le moins que je puisse faire pour vous remercier. Présentez-vous aux gardes et mentionnez mon nom - ils vous laisseront entrer."
 
 > [!note] 💎 Trésor
 > **Si sauvée:** [Invitation au Manoir de Tormel](generated_documentation/items/items.md#documents) `(permet l'accès à la fête)`
