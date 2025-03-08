@@ -1,0 +1,10 @@
+---
+description: Comment générer une fiche
+globs: 
+alwaysApply: false
+---
+
+# Génération d'une fiche
+
+-Lorsque tu génères quoi que ce soit dans le dossier "fiche". Il faut toujours analyser le fichier de "structure_de_fiche.md" pour connaître ce qui est attendue.
+-Lorsqu'il s'agit d'une nouvelle ville. Créer une nouvelle fiche dans le dossier "fiche" avec le nom de la ville comme nom du fichier.

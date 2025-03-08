@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "82fb89710559ec74",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef205f89854acb9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3782ecb599a385a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c933acbc190a5c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2971bf0bdd7bff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53397abc78f14e1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "45130b8cf7b45ee6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "da0533b6dff2a093",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83d5aab523d40e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fdb44ff49b5f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c552068e0ae8ee9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour README"
+            }
+          },
+          {
+            "id": "e9095ade70b74959",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de README"
+            }
+          },
+          {
+            "id": "7e0d2940c9ca5521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "d9cf979f5c271ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "3782ecb599a385a4",
+  "lastOpenFiles": [
+    "generated_documentation/lore/mythology/Mythologie.md",
+    "generated_documentation/Aretravailler/characters/PJ/Kaeno.md",
+    "generated_documentation/characters/PJ/structure_de_fiche_personnage_joueur.md",
+    "generated_documentation/characters/PJ/Kaeno.md",
+    "generated_documentation/characters/PJ/Haku.md",
+    "generated_documentation/characters/PJ/Catho.md",
+    "generated_documentation/characters/PJ",
+    "generated_documentation/characters/index.md",
+    "generated_documentation/characters",
+    "generated_documentation/Aretravailler/characters/PJ/Haku.md",
+    "generated_documentation/Aretravailler/characters/PJ/Catho.md",
+    "generated_documentation/fiche/structure_de_fiche.md",
+    "generated_documentation/Aretravailler/characters/PJ/structure_de_fiche_personnage_joueur.md",
+    "generated_documentation/Aretravailler/characters/PJ",
+    "generated_documentation/mechanics/Fiche.md",
+    "generated_documentation/quests/Quests.md",
+    "generated_documentation/quests/index.md",
+    "generated_documentation/magic/Magie.md",
+    "README.md",
+    "generated_documentation/items/items.md",
+    "generated_documentation/Aretravailler/world",
+    "generated_documentation/Aretravailler/society",
+    "generated_documentation/Aretravailler/Mécaniques.md",
+    "generated_documentation/Aretravailler/Prise de notes _ Comment écrire une bonne campagne.md",
+    "generated_documentation/Aretravailler/Textes de Myros.md",
+    "generated_documentation/geography/geographie.md",
+    "generated_documentation/geography/index.md",
+    "generated_documentation/geography/Lieux.md",
+    "generated_documentation/geography",
+    "generated_documentation/Aretravailler/Objets magiques.md",
+    "generated_documentation/Aretravailler/economy",
+    "generated_documentation/Aretravailler/characters/Personnages.md",
+    "generated_documentation/Aretravailler/characters/index.md",
+    "generated_documentation/Aretravailler/characters",
+    "generated_documentation/Aretravailler",
+    "generated_documentation/fiche"
+  ]
+}
