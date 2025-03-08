@@ -40,14 +40,15 @@
 
 > *Vous arrivez devant une taverne rustique dont l'enseigne en bois arbore une chope gravée. À l'intérieur, des tables usées entourent une cheminée crépitante, tandis qu'un comptoir massif en chêne domine la pièce. Des hommes ivres s'exclament et rient autour des tables.*
 
-➤ **Concours de boisson** -- Rouge, noir ou purple
+➤ **Garrik le Jovial** -- Tavernier à la mine réjouie. **Intentions:** Tenir la taverne et divertir ses clients.
+
+➤ **Activité spéciale: Concours de boisson** 
+  - **Description:** Jeu de paris où les participants choisissent une boisson (rouge, noir ou purple)
   - **Mécanique:** Jet d'endurance contre Tisalor (80%)
   - _Si bonne pioche_: mise augmentée
   - _Si échec_: Jet d'endurance avec -5% pour chaque mise supérieure à 1
   - _Si perdant_: Premier à rater 2 jets, paye toutes ses bières
   - _Si gagnant_: Obtient le titre du "buveur d'exception" (boisson gratuite pour tout le groupe dans n'importe quelle taverne)
-
-➤ **Garrik le Jovial** -- Tavernier à la mine réjouie
 
 > [!example] ⏰ Conditions Temporelles
 > - **Matinée (6h-12h):** Calme, petit-déjeuner servi
@@ -62,7 +63,7 @@
 > - **[Bière ordinaire](generated_documentation/items/items.md#honeywood---services)**: `7 pièces de cuivre`
 
 ➤ **Shérif Rasdra** -- Grand homme chauve à l'air sérieux. **Intentions:** Rester tranquille.
-  - *Information:* Le voleur va certainement vendre son bijou à la "Bijouterie L'Œil du Maître" dans la ville de Tormel, tenue par un certain Garrik.
+  - *Information:* Le voleur va certainement vendre son bijou à la "Bijouterie L'Œil du Maître" dans la ville de Tormel, tenue par un certain Dorian.
 
 ### La Maison du Chasseur
 
@@ -224,3 +225,111 @@
 > - **Miel d'Edwyn utilisé:** Hydromel et pâtisseries au miel coulent à flots `(+1 PV)`
 > - **Sanglier chassé:** Nourriture pour tout le monde `(+1 PV)`
 > - **Philippo sauvé:** Célina est avec lui ou avec Greg (qui pleure si son mouton a été sauvé ou non) 
+
+## Route vers Tormel
+
+> *Vous quittez la chaleur et la sécurité du village d'Honeywood pour emprunter la route sinueuse qui mène à Tormel. Le chemin serpente entre des collines douces, traverse des bosquets ombragés et côtoie par moments le cours d'une rivière aux eaux claires. Bien que généralement entretenue, cette voie n'est pas sans danger pour le voyageur imprudent.*
+
+### Points d'intérêt de la Route vers Tormel
+- [[#Le don de Vaelys]] : Vaelys (vieillard mystérieux)
+- [[#L'homme sous l'arbre]] : Harwin (bûcheron blessé)
+- [[#La rivière du désespoir]] : Luthiel (noble en détresse)
+- [[#Le relais abandonné]] : Marchand itinérant, présence démoniaque
+- [[#Le sanctuaire oublié]] : Statue brisée, inscription ancienne
+- [[#La caravane attaquée]] : Soldats blessés, contrebandiers
+
+> [!warning] 🎲 Table d'Événements Aléatoires
+> **Lancez 1d6:**
+> 1. Le don de Vaelys *(rencontre avec le vieillard)*
+> 2. L'homme sous l'arbre *(Harwin blessé)*
+> 3. La rivière du désespoir *(Luthiel et le crocodile)*
+> 4. Le relais abandonné *(présence démoniaque)*
+> 5. Le sanctuaire oublié *(découverte mystique)*
+> 6. La caravane attaquée *(confrontation avec des contrebandiers)*
+
+### Le don de Vaelys
+
+> *Vous apercevez un vieillard assis sur une souche au bord du chemin. Ses vêtements sont simples mais propres, et sa longue barbe blanche ondule doucement dans la brise. Ses yeux, d'un bleu perçant, semblent contenir une sagesse infinie. Il vous observe approcher avec un sourire énigmatique.*
+
+➤ **Vaelys (vieillard)** -- Barbe blanche, yeux bleus perçants, vêtements simples. **Intentions:** Transmettre la pièce d'or comme demandé.
+
+_Si abordé_: "On m'a donné cette pièce d'or, en me disant de la remettre à la première personne que je croise et de répéter cette phrase."
+
+> [!note] 💎 Trésor
+> **À récupérer:** [Pièce d'or magique](generated_documentation/items/items.md#objets-magiques)
+> - _Si gardée:_ Rien ne se produit
+> - _Si donnée à quelqu'un d'autre en répétant la phrase:_ Deux pièces d'or apparaissent mystérieusement dans votre poche
+
+### L'homme sous l'arbre
+
+> *Un gémissement attire votre attention vers un côté du chemin. Vous découvrez un homme robuste coincé sous un imposant tronc d'arbre. Son visage est crispé par la douleur, et des gouttes de sueur perlent sur son front. Sa hache est tombée à quelques pas de lui, inaccessible dans sa position.*
+
+➤ **Harwin (bûcheron)** -- Physique imposant, barbe fournie, vêtements de travail. **Intentions:** Être libéré du tronc qui l'écrase.
+
+_Si aidé_: Offre sa hache en remerciement
+_Si négligé_: Succombera à ses blessures avant la nuit
+
+> [!note] 💎 Trésor
+> **Si sauvé:** [Hache du bûcheron](generated_documentation/items/items.md#armes) `(3+1d6)`
+
+### La rivière du désespoir
+
+> *Le chemin longe une rivière aux eaux rapides. Soudain, des cris désespérés attirent votre attention. Une femme se débat violemment dans l'eau, tandis qu'une forme écailleuse rôde autour d'elle. Ses vêtements élégants, maintenant trempés, suggèrent qu'elle n'est pas une simple voyageuse.*
+
+➤ **Luthiel (noble de Tormel)** -- Jeune femme élégante aux cheveux auburn, bijoux discrets mais raffinés. **Intentions:** Échapper au crocodile et survivre.
+
+➤ **Crocodile** -- Massif et agressif ─ `5 PV` ─ Dégâts: `1d6`
+- _Si attaque réussie:_ Le crocodile tente d'entraîner sa proie sous l'eau
+- _Si Luthiel est sauvée:_ Extrêmement reconnaissante, elle vous invite à la fête au Manoir de Tormel
+- *Information:* "Je suis Luthiel, nièce du consul du commerce. Cette invitation à la fête au manoir est le moins que je puisse faire pour vous remercier. Présentez-vous aux gardes et mentionnez mon nom - ils vous laisseront entrer."
+
+> [!note] 💎 Trésor
+> **Si sauvée:** [Invitation au Manoir de Tormel](generated_documentation/items/items.md#documents) `(permet l'accès à la fête)`
+
+### Le relais abandonné
+
+> *Vous découvrez un ancien relais de diligence à moitié effondré. Les fenêtres sont brisées et la porte pend sur ses gonds. Une atmosphère oppressante règne autour du bâtiment, et vous remarquez d'étranges symboles gravés sur les murs extérieurs. Une faible lueur rougeâtre vacille à l'intérieur.*
+
+➤ **Marchand itinérant** -- Homme maigre au regard fuyant, vêtements sales. **Intentions:** Cacher sa véritable nature (possédé).
+- _Si observé attentivement:_ Des marques étranges sont visibles sous son col
+- _Si confronté:_ "Je... je ne fais que me reposer ici... partez... pour votre propre bien..."
+
+➤ **Présence démoniaque** -- Révélée si le marchand est poussé à bout ─ `7 PV` ─ Dégâts: `1d8` (griffes),
+- *Description:* Le corps du marchand se contorsionne horriblement, sa peau se fendille pour révéler une chair rougeoyante, et ses yeux deviennent des puits de ténèbres
+- _Si vaincu:_ Le démon s'échappe sous forme de fumée noire et le marchand s'effondre, épuisé mais reconnaissant
+- *Information:* "Cette... chose... m'a possédé quand j'ai dormi ici il y a trois nuits. Elle m'a forcé à graver ces symboles... Je crois qu'elle préparait un rituel pour invoquer d'autres comme elle."
+
+> [!note] 💎 Trésor
+> **Dans une cachette sous une lame du plancher:** [Parchemin de protection contre le mal](generated_documentation/items/items.md#objets-magiques) `(+2 contre attaques démoniaques pendant 1 heure)`
+> **Dans le sac du marchand:** [Amulette aux reflets rouges](generated_documentation/items/items.md#objets-magiques) `(permet de détecter la présence démoniaque à proximité)`
+
+### Le sanctuaire oublié
+
+> *Un sentier à peine visible s'écarte de la route principale et mène à une petite clairière. Au centre se dresse un ancien sanctuaire circulaire en pierre, envahi par la végétation. Une statue brisée gît au milieu, et une inscription à moitié effacée orne son socle.*
+
+➤ **Statue brisée** -- Figure féminine tenant ce qui semble être un grimoire
+- _Si jet de connaissance réussi:_ Cette représentation d'une sorcière est antérieure à la Grande Purge
+
+➤ **Inscription ancienne** -- Partiellement lisible sur le socle
+- "...protège ceux qui... vérité... essences divines... retrouver..."
+- _Si nettoyée et restaurée:_ "Que Parov protège ceux qui cherchent la vérité, et que les essences divines puissent un jour être retrouvées"
+
+> [!note] 💎 Trésor
+> **En méditant près de la statue:** [Vision mystique](generated_documentation/items/items.md#objets-magiques) `(perception temporairement accrue, +5% aux jets de perception pendant 24h)`
+> **Sous une dalle déplacée:** [Fragment de grimoire ancien](generated_documentation/items/items.md#objets-magiques) `(contient un sort)`
+
+### La caravane attaquée
+
+> *Vous découvrez les restes d'une embuscade récente. Une charrette renversée bloque partiellement la route, et plusieurs corps gisent au sol. Certains portent l'uniforme des gardes de Tormel, d'autres sont vêtus de noir. Des gémissements indiquent que tous ne sont pas morts.*
+
+➤ **Sergent Thorne** -- Soldat blessé de la garde de Tormel. **Intentions:** Survivre et rapporter l'embuscade à ses supérieurs.
+- *Information:* "Nous escortions une cargaison d'impôts vers Tormel quand ces contrebandiers nous sont tombés dessus. Ils étaient bien informés... trop bien informés. Je soupçonne une taupe au sein de la garde."
+- _Si soigné:_ Offre une pièce d'or. C'est plus que ce qu'on donne pour se soigner à l'hôpital de Tormel.
+
+➤ **Contrebandiers survivants** -- Deux hommes blessés tentant de se cacher ─ `2 PV chacun` ─ Dégâts: `1d4`
+- _Si capturés et interrogés:_ Révèlent travailler pour la Guilde des Ombres de Tormel
+- *Information:* "Le capitaine Voren de la garde est dans notre poche. C'est lui qui nous a informés de ce convoi."
+
+> [!note] 💎 Trésor
+> **Sur les corps des contrebandiers:** `12 pièces d'or et 23 pièces d'argent`
+> **Cachée dans un buisson proche:** [Sacoche d'impôts volés](generated_documentation/items/items.md#tresors) `(40 pièces d'or - récompense de 5 pièces d'or si rendue aux autorités)` 
